@@ -4,6 +4,7 @@ dist/
 nbproject/private/
 nbbuild/
 nbdist/
+out/
 
 # Compiled files
 *.class
