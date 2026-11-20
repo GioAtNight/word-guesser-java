@@ -1,0 +1,16 @@
+# NetBeans / Ant build output
+build/
+dist/
+nbproject/private/
+nbbuild/
+nbdist/
+
+# Compiled files
+*.class
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+
+# Local player accounts (created at runtime)
+data/users.txt
