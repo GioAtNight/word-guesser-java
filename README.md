@@ -4,6 +4,8 @@ A Wordle-style word guessing game built in **Java** with **Swing**, developed in
 
 Players create an account, then guess a hidden word in six attempts. After each guess, every letter is colored to show whether it is in the right spot, in the word but misplaced, or not in the word at all.
 
+![Word Guesser main menu](docs/main-menu.png.png)
+
 ## Features
 
 - **Single player:** choose a word length and try to solve the word in six attempts.
