@@ -40,6 +40,15 @@ data/
 3. Click **Run**.
 
 **From the command line** (from the project root, so the `data/` folder is found):
+
+Windows (PowerShell):
+```powershell
+mkdir out
+javac -d out (Get-ChildItem -Recurse -Filter *.java src).FullName
+java -cp out wordguesser.root.Main
+```
+
+macOS / Linux:
 ```bash
 mkdir -p out
 javac -d out $(find src -name "*.java")
