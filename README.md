@@ -34,6 +34,8 @@ data/
 
 ## How to Run
 
+**Requirements:** a JDK (Java Development Kit). The NetBeans project is set to Java 25. For the command-line steps below, `javac` and `java` must be on your PATH.
+
 **In NetBeans:**
 1. Clone this repository.
 2. In NetBeans, choose **File > Open Project** and select the cloned folder.
